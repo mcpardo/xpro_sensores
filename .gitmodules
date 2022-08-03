@@ -1,0 +1,3 @@
+[submodule "sensores/client_ICM20649/Adafruit_CircuitPython_ICM20X"]
+	path = sensores/client_ICM20649/Adafruit_CircuitPython_ICM20X
+	url = https://github.com/adafruit/Adafruit_CircuitPython_ICM20X.git
