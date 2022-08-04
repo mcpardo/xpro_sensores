@@ -1,6 +1,4 @@
 [submodule "sensores/client_ICM20649/Adafruit_CircuitPython_ICM20X"]
 	path = sensores/client_ICM20649/Adafruit_CircuitPython_ICM20X
 	url = https://github.com/mcpardo/Adafruit_CircuitPython_ICM20X.git
-[submodule "sensores/client_BME680/bsec_bme680"]
-	path = sensores/client_BME680/bsec_bme680
-	url = https://github.com/alexh-name/bsec_bme680_linux.git
+
