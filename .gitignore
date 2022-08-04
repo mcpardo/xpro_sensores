@@ -1,3 +1,4 @@
 dietpi
 docker/mosquitto/data/*
 docker/mosquitto/log/*
+libs
