@@ -8,3 +8,6 @@
 [submodule "sensores/client_MS5837/ms5837-python"]
 	path = sensores/client_MS5837/ms5837-python
 	url = https://github.com/mcpardo/ms5837-python.git
+[submodule "sensores/client_STMKI210V2K/Adafruit_CircuitPython_LSM6DS"]
+	path = sensores/client_STMKI210V2K/Adafruit_CircuitPython_LSM6DS
+	url = https://github.com/mcpardo/Adafruit_CircuitPython_LSM6DS.git
