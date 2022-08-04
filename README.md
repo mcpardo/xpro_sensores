@@ -5,7 +5,8 @@ Este proyecto está dirigido a guardar los archivos y versiones correspondientes
 Las librerías de terceros (open-source) implementadas en el proyecto son las siguientes:
 - [Paho MQTT for Python](https://github.com/eclipse/paho.mqtt.python)
 - [BSEC BME680 for Linux](https://github.com/alexh-name/bsec_bme680_linux)
-- [MS5837 for Python](https://github.com/bluerobotics/ms5837-python)
+- [Bluerobotics MS5837 for Python](https://github.com/bluerobotics/ms5837-python)
+- [Adafruit CircuitPython ICM20X](https://github.com/adafruit/Adafruit_CircuitPython_ICM20X)
 
 ## Directorios
 La explicación del contenido y función de los distintos directorios se encuentra a continuación:
