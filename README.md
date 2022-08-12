@@ -19,12 +19,11 @@ carpetas correspondientes a cada uno de los contenedores (i.e. mosquitto).
 Cada carpeta incluye la configuración específica del contenedor.
 
 ### sensores
-- Subdirectorios:
-  1. "client_X": contiene los archivos relacionados con el cliente X.
-  2. "sub_sensores.py" y "sub_sensores_logger.py": archivo de Python que implementa el cliente suscrito a los distintos topics de MQTT. El segundo archivo, además, funciona como logger, registrando las salidas de los sensores a los que se suscribe en un fichero .txt.
-  3. "libs": contiene librerias de distintos sensores (ignorada en .gitignore, ver en el repositorio local).
-  4. "loggers": contiene un archivo ".txt" para cada sensor donde se registran los mensajes de los sensores.
-  5. "basic_examples": contiene archivos de implementación de clientes básicos de MQTT en Python.
+- "client_X": contiene los archivos relacionados con el cliente X.
+- "sub_sensores.py" y "sub_sensores_logger.py": archivo de Python que implementa el cliente suscrito a los distintos topics de MQTT. El segundo archivo, además, funciona como logger, registrando las salidas de los sensores a los que se suscribe en un fichero .txt.
+- "libs": contiene librerias de distintos sensores (ignorada en .gitignore, ver en el repositorio local).
+- "loggers": contiene un archivo ".txt" para cada sensor donde se registran los mensajes de los sensores.
+- "basic_examples": contiene archivos de implementación de clientes básicos de MQTT en Python.
 
 
 
